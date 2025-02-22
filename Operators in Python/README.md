@@ -1,4 +1,4 @@
-# **🐍 Python Operators – Asaan Lafzon Mein Samajhte Hain!** 🚀  
+# **🐍 Python Operators!** 🚀  
 
 Python mein **operators** ka use **variables aur values par operations** perform karne ke liye hota hai.  
 Aaj hum **Arithmetic, Comparison, Logical, Assignment, Identity, Membership** aur **Bitwise Operators** ko **simple examples** ke saath samjhenge! 😊  
