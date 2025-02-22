@@ -1,4 +1,4 @@
-### **🐍 Polymorphism in Python – Asaan Lafzon Mein Samajhte Hain!**  
+### **🐍 Polymorphism in Python!**  
 
 Computer science mein **"poly"** ka matlab **"many"** (zyada) aur **"morph"** ka matlab **"forms"** (shaklein) hota hai.  
 
