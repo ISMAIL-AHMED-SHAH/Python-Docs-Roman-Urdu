@@ -1,4 +1,4 @@
-### **🐍 Duck Typing in Python – Asaan Lafzon Mein Samjhein!**  
+### **🐍 Duck Typing in Python!**  
 
 Agar aap Python seekh rahe hain, to aapne **types** (like `int`, `str`, `list`, etc.) ka concept suna hoga. Lekin Python ek **dynamic language** hai, aur yahan **Duck Typing** ka concept bohot powerful hai! 🔥  
 
