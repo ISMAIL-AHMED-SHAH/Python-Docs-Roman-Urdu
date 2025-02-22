@@ -1,5 +1,5 @@
 
-# **🐍 Python Keywords & Variables – Asaan Lafzon Mein Samajhte Hain!** 🚀  
+# **🐍 Python Keywords & Variables** 🚀  
 
 Python mein **keywords aur variables** programming ka basic foundation hain.  
 Aaj hum **keywords, variable naming rules aur best practices** ko **simple examples** ke saath samjhenge! 😊  
