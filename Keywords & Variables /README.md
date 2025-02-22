@@ -42,7 +42,7 @@ Python Keywords List:
 
 ### **✅ Example: Creating Variables**
 ```python
-name = "Alice"   # String
+name = "Ali"   # String
 age = 25         # Integer
 salary = 50000.5 # Float
 is_python_fun = True  # Boolean
@@ -54,7 +54,7 @@ print("Is Python Fun?", is_python_fun)
 ```
 🔹 **Output:**
 ```
-Name: Alice
+Name: Ali
 Age: 25
 Salary: 50000.5
 Is Python Fun? True
