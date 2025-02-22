@@ -1,4 +1,4 @@
-### **🐍 Python’s Object-Centric Nature – Asaan Lafzon Mein Samajhte Hain!**  
+### **🐍 Python’s Object-Centric Nature!**  
 
 Python ek **Object-Centric Language** hai, iska matlab **sab kuch ek object hai!** 🎯  
 Chahe woh **integers, strings, lists, functions, ya classes** ho, Python mein har cheez **object** ki tarah behave karti hai.  
