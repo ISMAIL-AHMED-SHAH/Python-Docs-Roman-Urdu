@@ -1,4 +1,4 @@
-# **🐍 Python `None` Data Type – Asaan Lafzon Mein Samajhte Hain!**  
+# **🐍 Python `None` Data Type!**  
 
 Python mein **`None` ek special data type hai** jo **kisi bhi value ki non-existence** ko represent karta hai.  
 👉 **Matlab, jab kisi variable ka koi value na ho, to Python usse `None` assign karta hai.**  
