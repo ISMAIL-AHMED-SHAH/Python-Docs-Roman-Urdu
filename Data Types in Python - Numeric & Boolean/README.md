@@ -1,4 +1,4 @@
-### **🐍 Python Data Types – Numeric & Boolean Asaan Lafzon Mein!**  
+### **🐍 Python Data Types – Numeric & Boolean!**  
 
 Python mein **bohot saare data types** hote hain, lekin **Numeric** aur **Boolean** types ka bohot zyada use hota hai. Aayiye ise **simple aur easy examples** ke saath samajhte hain! 🚀  
 
