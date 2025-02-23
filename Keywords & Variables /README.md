@@ -69,19 +69,19 @@ Is Python Fun? True
 ✔ Case-sensitive hote hain (`myVar` aur `myvar` alag hain).  
 
 ❌ **Invalid Variable Names:**  
-❌ Digit se start nahi ho sakte (`2name = "Bob"` **Error**).  
+❌ Digit se start nahi ho sakte (`2name = "Bilal"` **Error**).  
 ❌ Special characters nahi ho sakte (`my-variable = "Error"` **Error**).  
 ❌ Keywords nahi ho sakte (`class = "CS101"` **Error**).  
 
 ### **✅ Example: Valid & Invalid Variables**
 ```python
 # ✅ Valid variables
-user_name = "John"
+user_name = "Safaid Khan"
 _age = 30
 salary2024 = 55000
 
 # ❌ Invalid variables (Uncomment to see errors)
-# 2name = "Bob"        # ❌ Starts with a digit
+# 2name = "Bilal"        # ❌ Starts with a digit
 # my-variable = "Error" # ❌ Contains a hyphen (-)
 # class = "CS101"      # ❌ Uses a reserved keyword
 ```
@@ -101,7 +101,7 @@ salary2024 = 55000
 | **Concept** | **Explanation** | **Example** |
 |------------|---------------|------------|
 | ✅ **Keywords** | Reserved words, special meaning in Python | `if`, `for`, `while`, `def` |
-| ✅ **Variables** | Data store karne ke liye use hote hain | `name = "Alice"` |
+| ✅ **Variables** | Data store karne ke liye use hote hain | `name = "Ali"` |
 | ✅ **Valid Names** | Letters, digits, `_` allowed, case-sensitive | `_age`, `salary2024` |
 | ❌ **Invalid Names** | Digits start nahi ho sakte, special chars nahi ho sakte | `2name`, `my-variable` |
 | ✅ **Best Practices** | Meaningful names, snake/camel case use karein | `user_name`, `totalSalary` |
