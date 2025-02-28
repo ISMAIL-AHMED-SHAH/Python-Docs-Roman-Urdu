@@ -1,4 +1,4 @@
-### **Fibonacci Sequence aur Recursive Functions – Roman Urdu Guide! 🚀**  
+### **Fibonacci Sequence aur Recursive Functions! 🚀**  
 
 Recursion aik aisi technique hai jisme **function apne aap ko dobara call karta hai** jab tak ek **base case** na mil jaye. Yeh method bohat useful hoti hai **mathematical problems (jaise factorial, Fibonacci)** aur **tree traversal algorithms** ke liye.  
 
