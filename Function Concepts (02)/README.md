@@ -1,4 +1,4 @@
-# **Python Functions aur Advanced Concepts – Roman Urdu Guide! 🚀**  
+# **Python Functions aur Advanced Concepts! 🚀**  
 
 Python me **functions aur arguments** bohat important concepts hain jo **code reuse, efficiency, aur readability** ko improve karte hain. Yahaan hum **pass by reference vs pass by value**, **function arguments**, **lambda functions**, **recursion**, aur **generators** ko **roman urdu** me samjhenge!  
 
